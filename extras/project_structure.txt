@@ -1,1 +1,20 @@
-
+UssP/
+├─ AppVersion/
+│  ├─ UssP.exe
+│  └─ info.txt
+├─ doc/
+│  ├─ author.txt
+│  └─ license.txt
+├─ extras/
+│  ├─ docofshell.txt
+│  ├─ project_structure.txt
+│  └─ shell.bat
+├─ src/
+│  └─ UssP.py
+├─ .gitignore
+├─ LICENSE
+├─ README.md
+├─ launch_ussp.bat
+├─ requirements.txt
+├─ safe_launcher.bat
+├─ setup.bat
