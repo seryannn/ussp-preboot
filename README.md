@@ -1,4 +1,5 @@
-<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/48e3f1eb-b07e-4026-9820-2c5a2b4db947" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6f7c1135-d42c-4089-98b9-392c762c08cf" />
+
 
 # USSP – Unofficial Secure Starting Protocol v3.1
 
