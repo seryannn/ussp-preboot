@@ -1,3 +1,5 @@
+<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/48e3f1eb-b07e-4026-9820-2c5a2b4db947" />
+
 # USSP – Unofficial Secure Starting Protocol v3.1
 
 **USSP** is a **Windows system audit and forensic inspection tool** with a user interface inspired by a **BIOS / pre‑boot environment**.
