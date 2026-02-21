@@ -1,0 +1,3 @@
+The USSP Shell is a custom command-line interface designed to serve as a launcher and management hub for the UssP Project. It simulates a terminal-like environment with a blue background and yellow text and provides commands to launch scripts, executables, open documentation, and useful project links.
+
+It is not a real system shell; it is intended purely for interacting with the UssP project components.
